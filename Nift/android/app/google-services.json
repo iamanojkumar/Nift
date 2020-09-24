@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631546318164",
+    "firebase_url": "https://nift-testing.firebaseio.com",
+    "project_id": "nift-testing",
+    "storage_bucket": "nift-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631546318164:android:aa43d82492104ec90e8cc1",
+        "android_client_info": {
+          "package_name": "com.example.Nift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631546318164-mg3ve3n8tqbdea0sg6v80nr6hdvu9f5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Nift",
+            "certificate_hash": "14aec11578f223451571a9451bee9cede42d34b6"
+          }
+        },
+        {
+          "client_id": "631546318164-ce24n9paa17itg958jor60gf159egbei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYtKljM7vrP5a-q0T4Glw15Qo_ZYyZIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631546318164-ce24n9paa17itg958jor60gf159egbei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
